@@ -1,7 +1,7 @@
 :root {
   /* Pikachu Volleyball's original width: 432px, original height: 304px */
-  --aspect-ratio: calc(432 / 304);
-  --inverse-aspect-ratio: calc(304 / 432);
+  --aspect-ratio: calc(1536 / 864);
+  --inverse-aspect-ratio: calc(864 / 1536);
   --canvas-width: 96vmin;
   --canvas-height: calc(96vmin * var(--inverse-aspect-ratio));
   --font-size: 18px;
